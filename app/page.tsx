@@ -160,7 +160,7 @@ export default function Home() {
         <footer className="mt-16 border-t border-gray-300 pt-10">
           <Image src={logo} alt="Logotipo" className="mx-auto" />
           <p className="text-muted-foreground">
-            © 2024 LivroSaaS. Todos os direitos reservados.
+            © 2025 BookSaaS. Todos os direitos reservados.
           </p>
         </footer>
       </section>
